@@ -15,3 +15,10 @@ Es muy utilizada por programadores para trabajar con código y proyectos web.
 Para crear nuestra página necesitamos:
 
 Una cuenta de GitHub. Un repositorio. Un archivo index.html. Opcionalmente, archivos CSS y JavaScript. Una conexión a Internet.
+
+https://supabase.com/dashboard/project/ysuquxlteguzwrihfgko/editor/17604?schema=public
+
+
+https://stackblitz.com/edit/sveltejs-kit-template-default-w8wvz9bv?description=The%20default%20SvelteKit%20template,%20generated%20with%20create-svelte&file=README.md,src%2Froutes%2F%2Bpage.svelte&title=SvelteKit%20Default%20Template
+
+https://vercel.com/new?teamSlug=joscar1501
