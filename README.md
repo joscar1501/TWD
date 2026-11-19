@@ -17,7 +17,7 @@ Para crear nuestra página necesitamos:
 
 Una cuenta de GitHub. Un repositorio. Un archivo index.html. Opcionalmente, archivos CSS y JavaScript. Una conexión a Internet.
 
-https://supabase.com/dashboard/project/ysuquxlteguzwrihfgko/editor/17604?schema=public
+[https://supabase.com/dashboard/project/ysuquxlteguzwrihfgko/editor/17604?schema=public](https://supabase.com/dashboard/project/agcdgygsjclwloryfngi)
 
 https://stackblitz.com/edit/sveltejs-kit-template-default-w8wvz9bv?description=The%20default%20SvelteKit%20template,%20generated%20with%20create-svelte&file=README.md,src%2Froutes%2F%2Bpage.svelte&title=SvelteKit%20Default%20Template
 
